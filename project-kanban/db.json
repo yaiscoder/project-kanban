@@ -1,0 +1,18 @@
+{
+  "users" : [
+      {"name": "Juan David", "email": "juan@riwi.io", "password": "1234", "rol": "admin"},
+      {"name": "Yaila Ustate", "email": "yaila@riwi.io", "password": "1234", "rol": "admin"},
+      {"name": "Carlos", "email": "carlos@gmail.com", "password": "1234", "rol": "coder"},
+      {"name": "Valeria", "email": "valeria@gmail.com", "password": "1234", "rol": "coder"},
+      {"name": "Jose", "email": "jose@gmail.com", "password": "1234", "rol": "coder"}
+
+  ],
+  "tasks" : [
+      {"title": "Create login", "description": "Build the login page.", "status": "in progress", "userId": 2},
+      {"title": "Build Dashboard", "description": "Build the dashboard.", "status": "Done", "userId": 2},
+      {"title": "Responsive design", "description": "Create the responsive design.", "status": "To do", "userId": 1},
+      {"title": "Create contact page", "description": "Build the contact page.", "status": "in progress", "userId": 2},
+      {"title": "Fix the bugs", "description": "Fix the bugs on the page", "status": "To do", "userId": 1}
+  ]
+
+}
