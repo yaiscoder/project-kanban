@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@mail.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Coder User",
+      "email": "coder@mail.com",
+      "password": "123456",
+      "role": "coder"
+    },
+    {
+      "id": 3,
+      "name": "Sara Gomez",
+      "email": "sara@mail.com",
+      "password": "123456",
+      "role": "coder"
+    },
+    {
+      "name": "yaila ustate",
+      "email": "yaila@mail.com",
+      "password": "1234",
+      "role": "coder",
+      "id": 4
+    },
+    {
+      "name": "juan",
+      "email": "juan@gmail.com",
+      "password": "1234",
+      "role": "admin",
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "User Flow Mapping",
+      "description": "Define the end-to-end journey for the new onboarding experience.",
+      "status": "todo",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "title": "Social Media Assets",
+      "description": "Prepare Q3 promotional graphics for LinkedIn and Twitter.",
+      "status": "in progress",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "title": "Competitor Analysis",
+      "description": "Reviewing the workflow engines of the Top 3 competitors.",
+      "status": "in progress",
+      "userId": 3
+    },
+    {
+      "id": 5,
+      "title": "Pricing Tier Update",
+      "description": "Final sign-off required for the Enterprise plan structural changes.",
+      "status": "in review",
+      "userId": 2
+    },
+    {
+      "id": 6,
+      "title": "Privacy Policy v2",
+      "description": "Review GDPR compliance updates for the European expansion.",
+      "status": "todo",
+      "userId": 3
+    },
+    {
+      "id": 7,
+      "title": "Workspace Setup",
+      "description": "Configured the new Riwiflow cloud environment for the dev team.",
+      "status": "done",
+      "userId": 1
+    },
+    {
+      "id": 8,
+      "title": "Style Guide v1",
+      "description": "Baseline UI tokens and shared components library established.",
+      "status": "in review",
+      "userId": 3
+    }
+  ]
+}
